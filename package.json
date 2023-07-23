@@ -1,0 +1,24 @@
+{
+  "name": "data-structures-using-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnkitKaura/Data-Structures-Using-JS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnkitKaura/Data-Structures-Using-JS/issues"
+  },
+  "homepage": "https://github.com/AnkitKaura/Data-Structures-Using-JS#readme",
+  "devDependencies": {
+    "eslint": "^8.45.0",
+    "eslint-config-google": "^0.14.0"
+  }
+}
